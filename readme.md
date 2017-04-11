@@ -5,11 +5,11 @@ This assignment is the third of five, to walk through the Project Setup process 
 
 
 #### LaurenLove Project SetUp Launch
-![LaurenLove Project SetUp Launch]()
+![LaurenLove Project SetUp Launch](https://raw.githubusercontent.com/SMITHsharon/projectSetup3/screens/screens/LaurenLove%20on%20Launch.png)
 
 
 #### LaurenLove on Click
-![LaurenLove on Click](...)
+![LaurenLove on Click](https://raw.githubusercontent.com/SMITHsharon/projectSetup3/screens/screens/LaurenLove%20on%20Click.png)
 
 
 ### Project Specs
@@ -23,7 +23,7 @@ This assignment is the third of five, to walk through the Project Setup process 
 - Created a `.gitignore` file
 - Created `Gruntfile.js`
 - Committed all to GitHub, and merged in the Project SetUp
-- Ran `Grunt` in the background in a separate terminal window while developing the ZoeLove application
+- Ran `Grunt` in the background in a separate terminal window while developing the LaurenLove application
 
 
 ### Technologies Used
